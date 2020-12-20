@@ -1,0 +1,14 @@
+D:\Sachet\PromotionEngine\PromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Sachet\PromotionEngine\PromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Sachet\PromotionEngine\PromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Sachet\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.dll
+D:\Sachet\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+D:\Sachet\PromotionEngine\PromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Sachet\PromotionEngine\PromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Sachet\PromotionEngine\PromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Sachet\PromotionEngine\PromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Sachet\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+D:\Sachet\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+D:\Sachet\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CopyComplete
+D:\Sachet\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.dll
+D:\Sachet\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
